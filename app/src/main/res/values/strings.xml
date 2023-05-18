@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TabbedJavaFragment</string>
+    <string name="app_name">Tabbed Java Fragment</string>
     <string name="tab_text_1">Fragment 1</string>
     <string name="tab_text_2">Fragment 2</string>
 
